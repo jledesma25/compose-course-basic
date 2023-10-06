@@ -3,6 +3,7 @@
 <p align="center" width="100%">
   [![descarga.png](https://i.postimg.cc/BvxGRTcS/descarga.png)](https://postimg.cc/TyYSDW4F)
 </p>
+[![descarga.png](https://i.postimg.cc/BvxGRTcS/descarga.png)](https://postimg.cc/TyYSDW4F)
 
 Repositorio creado donde encontraras toda la informacion relacionada al curso que se desarrollara.
 
