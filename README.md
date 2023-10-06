@@ -1,7 +1,7 @@
 # Curso de desarrollo de Aplicaciones Móviles Android, utilizando Jetpack Compose - Básico
 
 <p align="center" width="100%">
-  <img  src="./assets/compose_readme.png">
+  [![descarga.png](https://i.postimg.cc/BvxGRTcS/descarga.png)](https://postimg.cc/TyYSDW4F)
 </p>
 
 Repositorio creado donde encontraras toda la informacion relacionada al curso que se desarrollara.
