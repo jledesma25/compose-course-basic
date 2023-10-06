@@ -20,21 +20,15 @@ Funciones Composables :
 
    - Imagenes: [https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing](https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing)
 
-# Tomate un tiempo para ver los siguientes recursos
+# Tomate un tiempo para ver los siguientes enlaces
 
-    - Introduction Jetpack Compose: 
+    - Introducción a Jetpack Compose: 
     https://www.youtube.com/watch?v=IuDkRDBy84k
 
-    - Fundamentals of Compose Layouts and Modifiers: 
+    - Fundamentos de Compose: Layouts y Modifiers: 
     https://www.youtube.com/watch?v=xc8nAcVvpxY&list=PLWz5rJ2EKKc94tpHND8pW8Qt8ZfT1a4cq&index=2
 
-    - From data to UI: Compose phasest: 
-    https://www.youtube.com/watch?v=0yK7KoruhSM&list=PLWz5rJ2EKKc94tpHND8pW8Qt8ZfT1a4cq&index=3
-
-    - Constraints and modifier order: 
-    https://www.youtube.com/watch?v=OeC5jMV342A&list=PLWz5rJ2EKKc94tpHND8pW8Qt8ZfT1a4cq&index=4
-
-    - Introduction Material 3: 
+    - Introducción a Material 3: 
     https://www.youtube.com/watch?v=h_JYW2hdI8U
      
     - Web Material 3: 
