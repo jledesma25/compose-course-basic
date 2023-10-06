@@ -16,9 +16,11 @@ Funciones Composables :
    - Articles: [https://drive.google.com/drive/folders/1GHXWlllXvtj6frtJtfGGkjPtQ-CxOWnH?usp=drive_link](https://drive.google.com/drive/folders/1rs9TOeSrUc3ULIxUD22toF4rJqZwsXjh?usp=sharing)
    - TaskComplete: [https://drive.google.com/drive/folders/198U-W26zApdtxD5nRBa3xK_6lOXGSKnJ?usp=drive_link](https://drive.google.com/drive/folders/1_KkQVgXZSFFXlzglW1ZNWmBl1QfVkBS2?usp=sharing)
 
+# Recursos del Proyecto
 
+   - Imagenes: [https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing](https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing)
 
-# Recursos Adicionales
+# Tomate un tiempo para ver los siguientes recursos
 
     - Introduction Jetpack Compose: 
     https://www.youtube.com/watch?v=IuDkRDBy84k
