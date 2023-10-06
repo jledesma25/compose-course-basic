@@ -1,5 +1,4 @@
-# compose-course-basic
-Curso de desarrollo de Aplicaciones Móviles Android, utilizando Jetpack Compose
+# Curso de desarrollo de Aplicaciones Móviles Android, utilizando Jetpack Compose - Básico
 
 <p align="center" width="100%">
   <img  src="./assets/compose_readme.png">
@@ -15,11 +14,11 @@ Repositorio creado donde encontraras toda la informacion relacionada al curso qu
 
 Funciones Composables :
 
-   - CardPresentation: https://drive.google.com/drive/folders/1w1xoQIuKiVSiYbt_Q5dK6hzQWpBRIgLF?usp=drive_link
-   - CardBirthay: https://drive.google.com/drive/folders/1mUpOtSJfezj_Dru7v6ZpUF5rIAETfIH4?usp=drive_link
-   - Quadrant: https://drive.google.com/drive/folders/1RxU_VGSrWRisMIRwyxz2VjNSjFsXpVdf?usp=drive_link
-   - Articles: https://drive.google.com/drive/folders/1GHXWlllXvtj6frtJtfGGkjPtQ-CxOWnH?usp=drive_link
-   - TaskComplete: https://drive.google.com/drive/folders/198U-W26zApdtxD5nRBa3xK_6lOXGSKnJ?usp=drive_link
+   - CardPresentation: [https://drive.google.com/drive/folders/1w1xoQIuKiVSiYbt_Q5dK6hzQWpBRIgLF?usp=drive_link](https://drive.google.com/drive/folders/1Pqp-nHI7sy0tqPzEgVcZdA1e6Qok7959?usp=sharing)
+   - CardBirthay: [https://drive.google.com/drive/folders/1mUpOtSJfezj_Dru7v6ZpUF5rIAETfIH4?usp=drive_link](https://drive.google.com/drive/folders/1EA--duu9UI2RAm4UlLx2JJmjb8vK24BD?usp=sharing)
+   - Quadrant: [https://drive.google.com/drive/folders/1RxU_VGSrWRisMIRwyxz2VjNSjFsXpVdf?usp=drive_link](https://drive.google.com/drive/folders/14OCggrXrVETj02gvRc77Ey8i6EAbLDmW?usp=sharing)
+   - Articles: [https://drive.google.com/drive/folders/1GHXWlllXvtj6frtJtfGGkjPtQ-CxOWnH?usp=drive_link](https://drive.google.com/drive/folders/1rs9TOeSrUc3ULIxUD22toF4rJqZwsXjh?usp=sharing)
+   - TaskComplete: [https://drive.google.com/drive/folders/198U-W26zApdtxD5nRBa3xK_6lOXGSKnJ?usp=drive_link](https://drive.google.com/drive/folders/1_KkQVgXZSFFXlzglW1ZNWmBl1QfVkBS2?usp=sharing)
 
 
 
