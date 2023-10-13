@@ -24,7 +24,7 @@ Recomposición :
 
    - TipCalculator: [https://drive.google.com/drive/folders/1w1xoQIuKiVSiYbt_Q5dK6hzQWpBRIgLF?usp=drive_link](https://drive.google.com/drive/folders/1Pqp-nHI7sy0tqPzEgVcZdA1e6Qok7959?usp=sharing)
    - Roller: [https://drive.google.com/drive/folders/1mUpOtSJfezj_Dru7v6ZpUF5rIAETfIH4?usp=drive_link](https://drive.google.com/drive/folders/1EA--duu9UI2RAm4UlLx2JJmjb8vK24BD?usp=sharing)
-   - Limonade: [https://drive.google.com/drive/folders/1RxU_VGSrWRisMIRwyxz2VjNSjFsXpVdf?usp=drive_link](https://drive.google.com/drive/folders/14OCggrXrVETj02gvRc77Ey8i6EAbLDmW?usp=sharing)
+   - Limonade: https://drive.google.com/drive/folders/1EKnEFDrdRkFKMWCXtQk4Jn9XUYo9h86M?usp=sharing
 
 # Recursos del Proyecto
 
