@@ -20,6 +20,12 @@ Funciones Composables :
    - Quadrant: [https://drive.google.com/drive/folders/1GHXWlllXvtj6frtJtfGGkjPtQ-CxOWnH?usp=drive_link](https://drive.google.com/drive/folders/1rs9TOeSrUc3ULIxUD22toF4rJqZwsXjh?usp=sharing)
    - TaskComplete: [https://drive.google.com/drive/folders/198U-W26zApdtxD5nRBa3xK_6lOXGSKnJ?usp=drive_link](https://drive.google.com/drive/folders/1_KkQVgXZSFFXlzglW1ZNWmBl1QfVkBS2?usp=sharing)
 
+Recomposición :
+
+   - TipCalculator: [https://drive.google.com/drive/folders/1w1xoQIuKiVSiYbt_Q5dK6hzQWpBRIgLF?usp=drive_link](https://drive.google.com/drive/folders/1Pqp-nHI7sy0tqPzEgVcZdA1e6Qok7959?usp=sharing)
+   - Roller: [https://drive.google.com/drive/folders/1mUpOtSJfezj_Dru7v6ZpUF5rIAETfIH4?usp=drive_link](https://drive.google.com/drive/folders/1EA--duu9UI2RAm4UlLx2JJmjb8vK24BD?usp=sharing)
+   - Limonade: [https://drive.google.com/drive/folders/1RxU_VGSrWRisMIRwyxz2VjNSjFsXpVdf?usp=drive_link](https://drive.google.com/drive/folders/14OCggrXrVETj02gvRc77Ey8i6EAbLDmW?usp=sharing)
+
 # Recursos del Proyecto
 
    - Imagenes: [https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing](https://drive.google.com/drive/folders/1IGNywjTzZxPBmi7OEgrGfG3RDLjhfM1z?usp=sharing)
@@ -37,5 +43,15 @@ Funciones Composables :
      
     - Web Material 3: 
     https://m3.material.io/styles/color/the-color-system/key-colors-tones
+
+    - Pensando en Compose:
+   https://www.youtube.com/watch?v=4zf30a34OOA&t=193s
+
+   - Manejo de estados
+   https://www.youtube.com/watch?v=3NjHNCVPrfI&list=PLFSffqEi7-Dx4ZKjIS4n-SG3XNmSe-LXD&index=3
+   (minuto 1:44:30 al 3:43:12)
+
+   - State Hoisting en Compose
+   https://www.youtube.com/watch?v=atDafWKgwX4
 
 
