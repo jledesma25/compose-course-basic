@@ -22,8 +22,8 @@ Funciones Composables :
 
 Recomposición :
 
-   - TipCalculator: [https://drive.google.com/drive/folders/1w1xoQIuKiVSiYbt_Q5dK6hzQWpBRIgLF?usp=drive_link](https://drive.google.com/drive/folders/1Pqp-nHI7sy0tqPzEgVcZdA1e6Qok7959?usp=sharing)
-   - Roller: [https://drive.google.com/drive/folders/1mUpOtSJfezj_Dru7v6ZpUF5rIAETfIH4?usp=drive_link](https://drive.google.com/drive/folders/1EA--duu9UI2RAm4UlLx2JJmjb8vK24BD?usp=sharing)
+   - TipCalculator: https://drive.google.com/drive/folders/1bxuWJZVTqPlDlsUbzigqD_-NxcUWfT8T?usp=drive_link
+   - Roller: https://drive.google.com/drive/folders/1aq3W-kD_dtvTSAU2CFoKHSLfr5kSaXnF?usp=drive_link
    - Limonade: https://drive.google.com/drive/folders/1EKnEFDrdRkFKMWCXtQk4Jn9XUYo9h86M?usp=sharing
 
 # Recursos del Proyecto
