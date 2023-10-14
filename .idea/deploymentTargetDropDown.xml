@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\jledesma\.android\avd\Lastet_emulator.avd" />
+            <value value="C:\Users\jledesma\.android\avd\Android_Emulator.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-10-06T23:47:53.067273900Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-10-14T00:03:52.411207500Z" />
   </component>
 </project>

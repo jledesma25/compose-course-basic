@@ -1,6 +1,9 @@
 package com.jotadev.composecoursebasic.examples
 
+import android.content.res.Configuration.UI_MODE_NIGHT_YES
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.background
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -18,6 +21,7 @@ import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material3.Button
 import androidx.compose.material3.Divider
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -29,16 +33,19 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.tooling.preview.Devices
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.jotadev.composecoursebasic.R
+import com.jotadev.composecoursebasic.ui.theme.ComposeCourseBasicTheme
 
 @Composable
 fun WelcomeScreen() {
     Box(
         modifier = Modifier
             .fillMaxSize()
+            .background(MaterialTheme.colorScheme.background)
             .padding(16.dp),
         contentAlignment = Alignment.Center
     ) {
@@ -67,7 +74,8 @@ fun WelcomeScreen() {
                     style = TextStyle(
                         fontSize = 18.sp,
                         color = Color.Black
-                    )
+                    ),
+                    color = MaterialTheme.colorScheme.tertiary
                 )
             }
 
@@ -79,7 +87,8 @@ fun WelcomeScreen() {
                     fontSize = 14.sp,
                     color = Color.Black,
                     fontStyle = FontStyle.Italic
-                )
+                ),
+                color = MaterialTheme.colorScheme.tertiary
             )
 
             Box(modifier = Modifier
@@ -106,8 +115,8 @@ fun WelcomeScreen() {
                 )
                 Text(
                     text = "Encuentranos en nuestras redes sociales",
-                    color = Color.Black,
-                    modifier = Modifier.padding(4.dp)
+                    modifier = Modifier.padding(4.dp),
+                    color = MaterialTheme.colorScheme.tertiary
                 )
                 Divider(
                     modifier = Modifier.width(24.dp),
@@ -116,13 +125,38 @@ fun WelcomeScreen() {
                 )
             }
 
+            val image = if(isSystemInDarkTheme()) R.drawable.pokemon2 else R.drawable.pokemon1
+
+            Image(
+                painter = painterResource(id = image),
+                contentDescription = "Pokemon"
+            )
+
+            /*if(isSystemInDarkTheme()){
+                Image(
+                    painter = painterResource(id = R.drawable.pokemon2),
+                    contentDescription = "Pokemon"
+                )
+            }else{
+                Image(
+                    painter = painterResource(id = R.drawable.pokemon1),
+                    contentDescription = "Pokemon"
+                )
+            }*/
+
 
         }
     }
 }
 
-@Preview(name = "Welcome", showSystemUi = true)
+
+
+@Preview(name = "Welcome Light", showSystemUi = true)
+@Preview(name = "Welcome Dark", showSystemUi = true, uiMode = UI_MODE_NIGHT_YES)
 @Composable
 fun WelcomeScreenPreview() {
-    WelcomeScreen()
+    ComposeCourseBasicTheme {
+        WelcomeScreen()
+    }
+
 }
