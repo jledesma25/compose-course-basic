@@ -45,13 +45,12 @@ Recomposición :
     https://m3.material.io/styles/color/the-color-system/key-colors-tones
 
     - Pensando en Compose:
-   https://www.youtube.com/watch?v=4zf30a34OOA&t=193s
+    https://www.youtube.com/watch?v=4zf30a34OOA&t=193s
 
-   - Manejo de estados
-   https://www.youtube.com/watch?v=3NjHNCVPrfI&list=PLFSffqEi7-Dx4ZKjIS4n-SG3XNmSe-LXD&index=3
-   (minuto 1:44:30 al 3:43:12)
+    - Manejo de estados
+    https://www.youtube.com/watch?v=3NjHNCVPrfI&list=PLFSffqEi7-Dx4ZKjIS4n-SG3XNmSe-LXD&index=3 (minuto 1:44:30 al 3:43:12)
 
-   - State Hoisting en Compose
-   https://www.youtube.com/watch?v=atDafWKgwX4
+    - State Hoisting en Compose
+     https://www.youtube.com/watch?v=atDafWKgwX4
 
 
